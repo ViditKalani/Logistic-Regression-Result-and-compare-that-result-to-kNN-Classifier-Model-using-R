@@ -1,4 +1,4 @@
-## Welcome to our German Credit Dataset Project website
+## Welcome to our German Credit Dataset Project Webpage
 
 Introduction:
 
