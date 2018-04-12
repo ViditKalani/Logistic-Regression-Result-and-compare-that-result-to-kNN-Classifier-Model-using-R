@@ -3,6 +3,8 @@ German Credit Dataset
 
 Description of the German credit dataset.
 
+https://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29 or in caret library in R to find this dataset.
+
 1. Title: German Credit data
 
 2. Source Information
