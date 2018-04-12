@@ -1,4 +1,4 @@
-## German Credit Dataset
+## Welcome to oue German Credit Dataset Project website
 
 Introduction:
 
@@ -56,3 +56,14 @@ Cai, Y., Ji, D., & Cai, D. (2010, June). A KNN Research Paper Classification Met
 
 Wang, B., Liao, Q., & Zhang, C. (2013, August). Weight Based KNN Recommender System. Retrieved March 20, 2018, from http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6642782    
 
+
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ViditKalani/ViditKalani.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
