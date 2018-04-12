@@ -1,11 +1,11 @@
-## Welcome to GitHub Pages
+## German Credit Dataset
+
 Introduction:
 
 The German Credit Dataset is a dataset that examines a German's credit worthiness and other factors associated with this worthiness. This dataset is interesting because it contains a plethora of information regarding credit worthiness. It is interesting to see the factors that are needed (and collected) to try to predict credit status. There are many entities that could benefit from analysis of this dataset. Credit Rating agencies could benefit from this dataset as they are primarily interested with evaluating a person's credit. With better prediction models, credit rating agencies could predict credit status more accurately and faster. Consumers could also stand to benefit from analysis of this dataset. With a good prediction model, a consumer could be able to predict the status of their own credit. Consumers would also learn more about what factors contribute to evaluation of credit.  With this project, we plan to obtain more information about credit rating/worthiness using outside research. Using our research and dataset, we plan to create a model to predict credit worthiness. This model will be able to predict a person's credit worthiness given important attributes of credit worthiness to a decent degree of certainty. 
 
 
-### Markdown
-Related Work:
+### Related Work:
 
 Hybrid models based on rough set classifiers for setting credit rating decision rules in the global banking industry:
 	This article describes the importance of credit rating among credit issuers and investors. This paper also describes the problems associated with many credit rating models. In order to overcome these problems, a hybrid model was created from two existing models. 
@@ -56,14 +56,3 @@ Cai, Y., Ji, D., & Cai, D. (2010, June). A KNN Research Paper Classification Met
 
 Wang, B., Liao, Q., & Zhang, C. (2013, August). Weight Based KNN Recommender System. Retrieved March 20, 2018, from http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6642782    
 
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ViditKalani/ViditKalani.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
