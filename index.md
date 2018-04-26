@@ -21,10 +21,10 @@ Methods/Models:
 1.	PCA Analysis
 a.	[discussion and results of PCA Analysis]
 
-2.	KNN Recommendation System
+2.	kNN Classifier Model System
 a.	[discussion and results of kNN]
 
-3.	Logistic Regression
+3.	Logistic Regression Model
 a.	[discussion and results of Regression Analysis]
 
 Results and Discussion:
