@@ -21,7 +21,7 @@ Methods/Models:
 1.	PCA Analysis
 a.	[discussion and results of PCA Analysis]
 
-2.	kNN Classifier Model System
+2.	kNN Classifier Model
 a.	[discussion and results of kNN]
 
 3.	Logistic Regression Model
