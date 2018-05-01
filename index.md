@@ -46,6 +46,7 @@ Conclusions:
 Contributions:
 
 	Vidit Kalani: KNN Classification Model, project set-up
+	
 	Shoun Abraham: PCA Analysis, project write-ups
 
 
