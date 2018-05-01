@@ -22,7 +22,20 @@ Methods/Models:
 a.	[discussion and results of PCA Analysis]
 
 2.	kNN Classifier Model
-a.	[discussion and results of kNN]
+	
+	Round 1:-  Duration feature is best accuracy which is 0.725.
+	
+	Round 2:-  Duration +  NumberPeopleMaintenance features are best accuracy which is 0.735.
+	
+	Round 3:-  Duration + NumberPeopleMaintenance +  Housing features are best accuracy which is 0.765.
+	
+	Round 4:-  Duration + NumberPeopleMaintenance + Housing + Telephone features are best accuracy which is 0.775.
+	
+	Round 5:-  Duration + NumberPeopleMaintenance + Housing + Telephone +  Age features are best accuracy which is 0.775.
+	
+	But I noticed that after Round 4 the some features accuracy going down compare to first 3 rounds.
+	And In Round 5 only one features’ accuracy is going up compare to first 4 rounds.
+
 
 3.	Logistic Regression Model
 a.	[discussion and results of Regression Analysis]
@@ -55,4 +68,3 @@ Xion, L., Chitti, S., & Liu, L. (n.d.). Mining multiple private databases using 
 Cai, Y., Ji, D., & Cai, D. (2010, June). A KNN Research Paper Classification Method Based on Shared ... Retrieved March 20, 2018, from http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings8/NTCIR/07-NTCIR8-PATMN-CaiY.pdf  
 
 Wang, B., Liao, Q., & Zhang, C. (2013, August). Weight Based KNN Recommender System. Retrieved March 20, 2018, from http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6642782    
-
