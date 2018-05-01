@@ -22,8 +22,8 @@ Methods/Models:
 a.	[discussion and results of PCA Analysis]
 
 2.	kNN Classifier Model Results:
-	
-Round 1:- Duration featirs is best accuracy which is 0.725.
+
+	Round 1:- Duration featirs is best accuracy which is 0.725.
 	
 	Round 2:-  Duration +  NumberPeopleMaintenance features are best accuracy which is 0.735.
 	
