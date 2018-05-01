@@ -40,16 +40,12 @@ a.	[discussion and results of PCA Analysis]
 3.	Logistic Regression Model Resutls:
 a.	[discussion and results of Regression Analysis]
 
-Results and Discussion:
-	[TO BE ADDED]
-
 Conclusions:
 	[TO BE ADDED]
 
 Contributions:
-	Vidit Kalani: KNN recommendation system, project set-up
-
-  Shoun Abraham: PCA Analysis, project write-ups
+	Vidit Kalani: KNN Classification Model, project set-up
+	Shoun Abraham: PCA Analysis, project write-ups
 
 
 
