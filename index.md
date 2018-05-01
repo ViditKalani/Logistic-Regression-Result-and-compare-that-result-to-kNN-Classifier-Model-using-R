@@ -21,7 +21,7 @@ Methods/Models:
 1.	PCA Analysis
 a.	[discussion and results of PCA Analysis]
 
-2.	kNN Classifier Model
+2.	kNN Classifier Model Results:
 	
 	Round 1:-  Duration feature is best accuracy which is 0.725.
 	
@@ -36,8 +36,8 @@ a.	[discussion and results of PCA Analysis]
 	But I noticed that after Round 4 the some features accuracy going down compare to first 3 rounds.
 	And In Round 5 only one features’ accuracy is going up compare to first 4 rounds.
 
-
-3.	Logistic Regression Model
+ 
+3.	Logistic Regression Model Resutls:
 a.	[discussion and results of Regression Analysis]
 
 Results and Discussion:
