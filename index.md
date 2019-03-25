@@ -1,4 +1,5 @@
-## Welcome to German Credit Dataset Project Webpage
+## Welcome to German Credit Dataset Project Webpage 
+## MSCS 5610 Data Mining
 
 Introduction:
 
