@@ -1,5 +1,6 @@
 ## Welcome to German Credit Dataset Project Webpage 
 ## MSCS 5610 Data Mining
+## Prof. Praveen Madiraju
 
 Introduction:
 
